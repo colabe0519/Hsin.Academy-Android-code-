@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_f80903cad281f3a96d96fa1973237d5a31102eb8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_f4961834d60143ef97dc0046b838792688c8a18b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_f2a93b21de0411afe9cc5642bcdd2203c6c2860b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_69a61056e43c1fe65af6ceb3290cfd01fcaf8caa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5ce9eb543518376ebcb484aa4a4554d812f6555d">
+        <dex dex="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a706c4e47217b1a62d532263b3ff6175d945d488/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e9899eabcbc45300e57b4da05f55b1defcfc55f0">
+        <dex dex="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_59e4c3fe2198777ff7d76ee2d132f26b3c1f0b92/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_3bb1752666b7d39cf1b0dbac181adbc17aeffb48/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/cola/AndroidStudioProjects/Hsin.Academy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6383d90b735d408d0f630a52cda83a2964c4817c/classes.dex" />
+    </item>
+
+</items>
